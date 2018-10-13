@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParcelZero</string>
+
+    <string name="signup">Sign up</string>
+    <string name="login">Login</string>
+
+    <string name="byline">Parcel delivery reimagined</string>
+</resources>
